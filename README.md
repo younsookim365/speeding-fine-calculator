@@ -1,6 +1,9 @@
 # Speeding Fine Calculator
 Java console application designed to calculate fines for citizens caught speeding in a 120km zone.
 
+## Overview 
+This application calculates fines for citizens caught speeding in a 120km zone by multiplying the speed by R10.20 to calculate the total fine. It then displays the citizen's name, speed, and the resulting fine amount if applicable.
+
 ## Features
 - Fine Calculation
 - Display of Results
@@ -13,7 +16,7 @@ Enter the citizen's name and speed.
 ![image](https://github.com/basgbasg/test/assets/133644970/fa274051-7c3e-415d-b8fa-ff4d7bfd0690)
 
 ### Display of results for 120 km/h or higher speed 
-If a citizen's speed is 120 km/h or higher, a fine is applicable. In such cases, the speed is multiplied by R10.20 to calculate the total fine. The application then displays the citizen's name, speed, and the resulting fine amount.
+If a citizen's speed is 120 km/h or higher, a fine is applicable. The citizen's name, speed, and the resulting fine amount is displayed.
 
 ![image](https://github.com/basgbasg/test/assets/133644970/02a8267a-d5d9-4034-9ba0-e2be3859c83b)
 
